@@ -1,5 +1,5 @@
 {
-  "build_hash": "259c592d7dc03e4169a4ca133ea2a34d",
+  "build_hash": "7c7691d2b9b142a3eba5d62221f6cbc2",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -2022,6 +2022,10 @@
     {
       "code": "0xf26a",
       "name": "ios-water-outline"
+    },
+    {
+      "code": "0xf700",
+      "name": "ios-wealth"
     },
     {
       "code": "0xf26d",

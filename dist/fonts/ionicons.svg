@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-1-11: Created with FontForge (http://fontforge.org)
+2017-2-24: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150913 at Mon Jan 11 15:33:02 2016
- By Adam Bradley
-Copyright (c) 2016, Adam Bradley
+Created by FontForge 20170104 at Fri Feb 24 17:00:22 2017
+ By Xiaobo Yang
+Copyright (c) 2017, Xiaobo Yang
 </metadata>
 <defs>
 <font id="Ionicons" horiz-adv-x="416" >
@@ -22,7 +22,7 @@ Copyright (c) 2016, Adam Bradley
     bbox="-0.75 -64 512.487 448"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F100-F4CD"
+    unicode-range="U+F100-F700"
   />
     <missing-glyph />
     <glyph glyph-name="ion-ios-add-circle-outline" unicode="&#xf100;" 
@@ -1680,6 +1680,9 @@ c0 -79 -72 -142 -160 -142c-56 0 -106 25 -134 64c-6 8 -11 18 -15 27c-7 16 -11 33 
     <glyph glyph-name="ion-ios-water" unicode="&#xf26b;" horiz-adv-x="320" 
 d="M256 300c37 -52 64 -111 64 -174c0 -79 -72 -142 -160 -142c-56 0 -106 25 -134 64c-6 8 -11 18 -15 27c-7 16 -11 33 -11 51v4c1 62 27 118 64 170s73 84 96 100c24 -18 59 -48 96 -100zM170 37c55 0 100 42 100 93c0 13 -1 26 -6 37c-21 -77 -53 -109 -140 -123
 c13 -6 30 -7 46 -7z" />
+    <glyph glyph-name="ion-ios-wealth" unicode="&#xf700;" horiz-adv-x="427" 
+d="M17 192c0 108 88 196 196 196s197 -88 197 -196s-89 -196 -197 -196s-196 88 -196 196zM0 192c0 -118 95 -213 213 -213s214 95 214 213s-96 213 -214 213s-213 -95 -213 -213zM34 115l6 -6l103 90l70 -68l5 -6l6 5l135 124l-6 6l-6 7l-128 -119l-69 69l-6 6l-6 -6
+l-109 -95z" />
     <glyph glyph-name="ion-ios-wifi-outline" unicode="&#xf26c;" horiz-adv-x="448" 
 d="M224 336c-72 0 -146 -29 -201 -78l15 -17c23 20 49 37 77 49c34 15 71 22 109 22s75 -7 109 -22c28 -12 54 -29 77 -49l15 17c-55 49 -129 78 -201 78zM224 352v0c83 0 166 -36 224 -94l-37 -39c-24 24 -53 43 -84 56c-32 14 -67 21 -103 21s-70 -7 -103 -21
 c-31 -13 -60 -32 -84 -56l-37 39c58 58 141 94 224 94zM224 223c-46 0 -89 -16 -123 -45l17 -17c30 25 67 38 106 38s76 -13 106 -38l17 17c-34 29 -77 45 -123 45zM224 239v0c57 0 109 -23 147 -60l-40 -40c-29 28 -67 44 -107 44s-78 -16 -107 -44l-40 40

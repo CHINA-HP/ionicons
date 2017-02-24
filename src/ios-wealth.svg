@@ -1,0 +1,13 @@
+<svg width="24px" height="24px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="24">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon_chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0, 3)">
+        <use id="Oval-114" stroke="#BBBBBB" mask="url(#mask-2)" stroke-width="1" xlink:href="#path-1"></use>
+        <polyline id="Path-117" stroke="#BBBBBB" points="1.5 16.5 7.90820312 10.8847656 12.309082 15.2414551 20.1925064 8"></polyline>
+    </g>
+</svg>
