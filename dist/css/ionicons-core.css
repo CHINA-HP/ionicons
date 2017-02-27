@@ -118,6 +118,10 @@
 
 .ion-ios-arrow-up-outline:before { content: "\f3d8"; }
 
+.ion-ios-asset:before { content: "\f701"; }
+
+.ion-ios-asset-outline:before { content: "\f701"; }
+
 .ion-ios-at:before { content: "\f3da"; }
 
 .ion-ios-at-outline:before { content: "\f3d9"; }

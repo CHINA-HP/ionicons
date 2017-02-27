@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-2-24: Created with FontForge (http://fontforge.org)
+2017-2-27: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170104 at Fri Feb 24 17:00:22 2017
+Created by FontForge 20170104 at Mon Feb 27 11:34:11 2017
  By Xiaobo Yang
 Copyright (c) 2017, Xiaobo Yang
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2017, Xiaobo Yang
     bbox="-0.75 -64 512.487 448"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F100-F700"
+    unicode-range="U+F100-F701"
   />
     <missing-glyph />
     <glyph glyph-name="ion-ios-add-circle-outline" unicode="&#xf100;" 
@@ -126,6 +126,10 @@ d="M8 184c-4 0 -8 4 -8 8s4 8 8 8h221l-67 74c-3 3 -3 9 0 12c2 2 4 2 6 2s4 0 6 -2l
 d="M104 72c0 -4 -4 -8 -8 -8s-8 4 -8 8v221l-74 -67c-3 -3 -9 -3 -12 0c-2 2 -2 4 -2 6s0 4 2 6l88 80h1v0l1 1v0v0h1v1v0h1v0v0h1v0h2v0h1v0v0h1v0v-1h1v0v0l1 -1v0h1l88 -80c3 -3 3 -9 0 -12s-9 -3 -12 0l-74 67v-221z" />
     <glyph glyph-name="ion-ios-arrow-up" unicode="&#xf3d8;" horiz-adv-x="320" 
 d="M288 96l-128 127l-128 -127l-32 32l160 160v0v0l160 -160z" />
+    <glyph glyph-name="ion-ios-asset" unicode="&#xf701;" horiz-adv-x="427" 
+d="M17 192c0 108 88 196 196 196s197 -88 197 -196s-89 -196 -197 -196s-196 88 -196 196zM0 192c0 -118 95 -213 213 -213s214 95 214 213s-96 213 -214 213s-213 -95 -213 -213zM128 209c0 9 0 9 9 9h153c9 0 9 0 9 -9v0c0 -9 0 -8 -9 -8h-153c-9 0 -9 -1 -9 8v0zM128 158
+c0 9 0 8 9 8h153c9 0 9 1 9 -8v0c0 -9 0 -9 -9 -9h-153c-9 0 -9 0 -9 9v0zM205 209c0 9 -1 9 8 9v0c9 0 9 0 9 -9v-136c0 -9 0 -9 -9 -9v0c-9 0 -8 0 -8 9v136zM152 307c7 4 8 4 12 -3l51 -88c4 -7 4 -8 -3 -12v0c-7 -4 -8 -4 -12 3l-51 89c-4 7 -4 7 3 11v0zM272 307v0
+c7 -4 7 -4 3 -11l-51 -89c-4 -7 -5 -7 -12 -3v0c-7 4 -7 5 -3 12l51 88c4 7 5 7 12 3z" />
     <glyph glyph-name="ion-ios-at-outline" unicode="&#xf3d9;" horiz-adv-x="384" 
 d="M370 103l14 -7c-36 -69 -106 -112 -183 -112c-55 0 -105 22 -143 61c-37 39 -58 91 -58 147s21 108 58 147c38 39 88 61 143 61c56 0 104 -21 134 -60c29 -38 38 -87 26 -139c-12 -51 -38 -74 -58 -85c-22 -12 -43 -16 -64 -9v0c-5 2 -8 4 -11 6c-5 5 -9 11 -10 20h-1
 c-6 -6 -13 -12 -22 -18s-19 -9 -29 -9c-8 0 -15 2 -22 5s-13 8 -17 13s-8 12 -10 19s-4 14 -4 22c0 14 2 28 7 42s11 27 19 38s18 20 30 27s25 10 39 10c9 0 17 -3 25 -8s13 -14 18 -26l10 27h21l-38 -117c-1 -4 -3 -9 -4 -13s-1 -7 -1 -10s1 -7 3 -9v-1v0c11 -9 35 -5 53 5

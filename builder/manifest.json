@@ -1,5 +1,5 @@
 {
-  "build_hash": "7c7691d2b9b142a3eba5d62221f6cbc2",
+  "build_hash": "11dd07a4da2a183bf9c50c577f58c63d",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -150,6 +150,10 @@
     {
       "code": "0xf3d8",
       "name": "ios-arrow-up"
+    },
+    {
+      "code": "0xf701",
+      "name": "ios-asset"
     },
     {
       "code": "0xf3da",
