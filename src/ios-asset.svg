@@ -1,0 +1,22 @@
+<svg width="24px" height="24px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="24" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="资产" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0 3)">
+        <use id="Oval-2" stroke="#BBBBBB" mask="url(#mask-2)" stroke-width="1" xlink:href="#path-1"></use>
+        <g id="Group" transform="translate(7.000000, 5.000000)" fill="#BBBBBB">
+            <rect x="0" y="5.5" width="10" height="1" rx="0.5"></rect>
+            <rect x="0" y="8.5" width="10" height="1" rx="0.5"></rect>
+            <rect x="4.5" y="5.5" width="1" height="9" rx="0.5"></rect>
+            <rect transform="translate(3.178525, 3.273317) rotate(60.000000) translate(-3.178525, -3.273317) " x="-0.3125" y="2.77331668" width="6.98205081" height="1" rx="0.5"></rect>
+            <rect transform="translate(6.678525, 3.273317) scale(-1, 1) rotate(60.000000) translate(-6.678525, -3.273317) " x="3.1875" y="2.77331668" width="6.98205081" height="1" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>
+
+
