@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "3dd4b97d72324c9ad6d42726716b6b66",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -633,6 +633,10 @@
       "name": "at"
     },
     {
+      "code": "0xf138",
+      "name": "back"
+    },
+    {
       "code": "0xf3bf",
       "name": "backspace"
     },
@@ -709,6 +713,10 @@
       "name": "camera"
     },
     {
+      "code": "0xf13b",
+      "name": "cancel"
+    },
+    {
       "code": "0xf119",
       "name": "card"
     },
@@ -739,6 +747,10 @@
     {
       "code": "0xf11f",
       "name": "chatbubbles"
+    },
+    {
+      "code": "0xf13c",
+      "name": "check-mark"
     },
     {
       "code": "0xf122",
@@ -847,6 +859,10 @@
     {
       "code": "0xf12e",
       "name": "document-text"
+    },
+    {
+      "code": "0xf145",
+      "name": "done"
     },
     {
       "code": "0xf130",
@@ -1019,6 +1035,10 @@
     {
       "code": "0xf149",
       "name": "information-circled"
+    },
+    {
+      "code": "0xf146",
+      "name": "invite-gift"
     },
     {
       "code": "0xf14b",
@@ -2209,6 +2229,14 @@
       "name": "merge"
     },
     {
+      "code": "0xf14c",
+      "name": "message-bell"
+    },
+    {
+      "code": "0xf14d",
+      "name": "message-order"
+    },
+    {
       "code": "0xf204",
       "name": "mic-a"
     },
@@ -2311,6 +2339,10 @@
     {
       "code": "0xf212",
       "name": "person-stalker"
+    },
+    {
+      "code": "0xf14e",
+      "name": "photo"
     },
     {
       "code": "0xf2a5",
@@ -2427,6 +2459,10 @@
     {
       "code": "0xf4d7",
       "name": "sad-outline"
+    },
+    {
+      "code": "0xf14f",
+      "name": "safe-gurad"
     },
     {
       "code": "0xf34b",
@@ -2823,6 +2859,10 @@
     {
       "code": "0xf24f",
       "name": "stop"
+    },
+    {
+      "code": "0xf150",
+      "name": "support-person"
     },
     {
       "code": "0xf2b6",
