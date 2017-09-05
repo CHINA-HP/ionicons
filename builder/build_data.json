@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "3dd4b97d72324c9ad6d42726716b6b66",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -59,6 +59,14 @@
     {
       "code": "0xf3ff",
       "name": "ios-checkmark"
+    },
+    {
+      "code": "0xf405",
+      "name": "ios-close-outline"
+    },
+    {
+      "code": "0xf445",
+      "name": "ios-help-outline"
     },
     {
       "code": "0xf46a",

@@ -16,6 +16,8 @@
 .#{$ionicons-prefix}information-circled:before,
 .#{$ionicons-prefix}invite-gift:before,
 .#{$ionicons-prefix}ios-checkmark:before,
+.#{$ionicons-prefix}ios-close-outline:before,
+.#{$ionicons-prefix}ios-help-outline:before,
 .#{$ionicons-prefix}ios-more:before,
 .#{$ionicons-prefix}ios-trash-outline:before,
 .#{$ionicons-prefix}message-bell:before,
@@ -43,6 +45,8 @@
 .#{$ionicons-prefix}information-circled:before { content: $ionicon-var-information-circled; }
 .#{$ionicons-prefix}invite-gift:before { content: $ionicon-var-invite-gift; }
 .#{$ionicons-prefix}ios-checkmark:before { content: $ionicon-var-ios-checkmark; }
+.#{$ionicons-prefix}ios-close-outline:before { content: $ionicon-var-ios-close-outline; }
+.#{$ionicons-prefix}ios-help-outline:before { content: $ionicon-var-ios-help-outline; }
 .#{$ionicons-prefix}ios-more:before { content: $ionicon-var-ios-more; }
 .#{$ionicons-prefix}ios-trash-outline:before { content: $ionicon-var-ios-trash-outline; }
 .#{$ionicons-prefix}message-bell:before { content: $ionicon-var-message-bell; }

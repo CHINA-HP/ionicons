@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-8-21: Created with FontForge (http://fontforge.org)
+2017-9-5: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170104 at Mon Aug 21 19:26:17 2017
- By Xiaobo Yang
-Copyright (c) 2017, Xiaobo Yang
+Created by FontForge 20161116 at Tue Sep  5 15:05:58 2017
+ By Xinhai Zeng
+Copyright (c) 2017, Xinhai Zeng
 </metadata>
 <defs>
 <font id="Ionicons" horiz-adv-x="448" >
@@ -55,6 +55,11 @@ d="M269 290v0v-70h218v0h9v81h-135c58 38 91 122 18 138c-82 18 -118 -79 -130 -121c
 c-19 -18 -56 -20 -80 -21v-13zM227 198h-198v-260h437v260h-197v-260h-42v260z" />
     <glyph glyph-name="ion-ios-checkmark" unicode="&#xf3ff;" horiz-adv-x="416" 
 d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM176 118l134 135l-18 18l-125 -126l-47 47l-18 -18l56 -56c2 -2 6 -4 9 -4s7 2 9 4z" />
+    <glyph glyph-name="ion-ios-close-outline" unicode="&#xf405;" horiz-adv-x="416" 
+d="M355 339c81 -81 81 -213 0 -294s-213 -81 -294 0s-81 213 0 294s213 81 294 0zM343 57c74 74 74 196 0 270s-196 74 -270 0s-74 -196 0 -270s196 -74 270 0zM292 288l12 -12l-84 -84l84 -84l-12 -12l-84 84l-84 -84l-12 12l84 84l-84 84l12 12l84 -84z" />
+    <glyph glyph-name="ion-ios-help-outline" unicode="&#xf445;" horiz-adv-x="416" 
+d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM208 1c105 0 191 86 191 191s-86 191 -191 191s-191 -86 -191 -191s86 -191 191 -191zM212 302c33 0 60 -21 60 -55c0 -22 -11 -36 -26 -50c-23 -23 -22 -27 -23 -53h-19
+c1 28 7 43 30 64c11 10 19 23 19 38c0 24 -19 40 -42 40c-32 0 -49 -16 -48 -46h-19c0 42 25 62 68 62zM212 116c9 0 17 -8 17 -17s-8 -17 -17 -17s-17 8 -17 17s8 17 17 17z" />
     <glyph glyph-name="ion-ios-more" unicode="&#xf46a;" horiz-adv-x="320" 
 d="M160 224v0c18 0 32 -14 32 -32s-14 -32 -32 -32s-32 14 -32 32s14 32 32 32zM32 224v0c18 0 32 -14 32 -32s-14 -32 -32 -32s-32 14 -32 32s14 32 32 32zM288 224v0c18 0 32 -14 32 -32s-14 -32 -32 -32s-32 14 -32 32s14 32 32 32z" />
     <glyph glyph-name="ion-ios-trash-outline" unicode="&#xf4c4;" horiz-adv-x="288" 
