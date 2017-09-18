@@ -1,5 +1,5 @@
 {
-  "build_hash": "d611102918b8ad412a9f1d823a097a6f",
+  "build_hash": "81f91e8832498e1c206e6b1d47f1824b",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -1186,6 +1186,10 @@
     {
       "code": "0xf1bc",
       "name": "ios-map-outline"
+    },
+    {
+      "code": "0xf350",
+      "name": "ios-mc-user"
     },
     {
       "code": "0xf1bf",

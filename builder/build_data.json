@@ -1,5 +1,5 @@
 {
-  "build_hash": "",
+  "build_hash": "d611102918b8ad412a9f1d823a097a6f",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -218,6 +218,14 @@
     {
       "code": "0xf3d8",
       "name": "ios-arrow-up-outline"
+    },
+    {
+      "code": "0xf701",
+      "name": "ios-asset"
+    },
+    {
+      "code": "0xf701",
+      "name": "ios-asset-outline"
     },
     {
       "code": "0xf3da",
@@ -1372,6 +1380,14 @@
       "name": "ios-map-outline"
     },
     {
+      "code": "0xf350",
+      "name": "ios-mc-user"
+    },
+    {
+      "code": "0xf350",
+      "name": "ios-mc-user-outline"
+    },
+    {
       "code": "0xf1bf",
       "name": "ios-medal"
     },
@@ -2322,6 +2338,14 @@
     {
       "code": "0xf26a",
       "name": "ios-water-outline"
+    },
+    {
+      "code": "0xf700",
+      "name": "ios-wealth"
+    },
+    {
+      "code": "0xf700",
+      "name": "ios-wealth-outline"
     },
     {
       "code": "0xf26d",
