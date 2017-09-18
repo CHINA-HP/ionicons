@@ -698,6 +698,10 @@
 
 .ion-ios-map-outline:before { content: "\f1bc"; }
 
+.ion-ios-mc-client:before { content: "\f351"; }
+
+.ion-ios-mc-client-outline:before { content: "\f351"; }
+
 .ion-ios-mc-user:before { content: "\f350"; }
 
 .ion-ios-mc-user-outline:before { content: "\f350"; }
